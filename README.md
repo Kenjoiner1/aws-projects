@@ -1,1 +1,1 @@
-# aws-projects
+# security-operations-siem-lab
